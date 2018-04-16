@@ -13,7 +13,7 @@ I wrote this for use with parole where the call to parole is simply:
     parole playlist.m3u  
 your player may require different syntax
 
-The actual DIALOG_SH file will be created but the script assumes
+The actual DIALOG_SH file will be created but the script assumes  
 that MUSIC_DIR, PLAYLIST_DIR and the path FOR DIALOG_SH exist  
 
 ############# USER VARIABLES ###############  
